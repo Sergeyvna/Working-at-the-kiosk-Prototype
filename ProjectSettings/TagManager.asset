@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - UI Canvas
+  - Customer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - UI Text
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1157147425
+    locked: 0
+  - name: Shop
+    uniqueID: 701979659
+    locked: 0
+  - name: Player
+    uniqueID: 760757361
+    locked: 0
+  - name: Npc
+    uniqueID: 2565306781
+    locked: 0
+  - name: Front
+    uniqueID: 351658185
+    locked: 0

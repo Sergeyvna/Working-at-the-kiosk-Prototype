@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/(0) Starting Scene.unity
+    guid: ce4951d4458f4e84984dfa51e1520bfe
+  - enabled: 1
+    path: Assets/Scenes/(1) Path Scene.unity
+    guid: 3a32e34ef0e19734286bac53ef95aa02
+  - enabled: 1
+    path: Assets/Scenes/(2) Shop Scene.unity
+    guid: 3b78f916176fbe245a464724a7012919
+  - enabled: 1
+    path: Assets/Scenes/(3) End Of The Shift.unity
+    guid: 84d3391c3df5aa24b8c46b090ddf19af
+  - enabled: 1
+    path: Assets/Scenes/(4) Main Gameplay Scene.unity
+    guid: 10795af71c972674aba6ad593a8233be
+  - enabled: 1
+    path: Assets/Scenes/(5) Fight Scene.unity
+    guid: 23cd40133fb0f3f408c92698108045de
+  m_configObjects: {}
